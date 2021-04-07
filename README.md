@@ -1,6 +1,6 @@
 # Dt Money
 
-An web app developed at Rocketseat course :D
+A web app developed at Rocketseat course :D
 
 ## Screenshots :camera:
 
